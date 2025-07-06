@@ -10,7 +10,7 @@ public class SplitBill{
         double amount = sc.nextDouble();
         System.out.println("Is there any service charge(tip) [yes or no] :");
         String isTip = sc.next();
-        
+        // checking if tip exists
         if (isTip.equalsIgnoreCase("yes")){
             System.out.println("Enter service charge: ");
             double service_charge = sc.nextDouble();
@@ -20,7 +20,7 @@ public class SplitBill{
         System.out.println("Enter number of people:");
         int persons = sc.nextInt();
         // preparing and showing output
-        double pay = Math.round(amount/persons);
+        double pay = amount/persons;
         System.out.println("Each person has to pay Rs. " + pay);
     }
 }
