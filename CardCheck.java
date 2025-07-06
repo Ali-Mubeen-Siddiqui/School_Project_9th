@@ -7,8 +7,11 @@ public class CardCheck{
         final int MIN_AGE = 18;
         final int MIN_CREDIT_SCORE = 600;
         final double MIN_INCOME = 20000.00;
+        // min values
         Scanner sc = new Scanner(System.in);
         System.out.println("\tWelcome to check you eligibility for credit card");
+        
+        // getting values from user
         
         System.out.println("Enter age:");
         int age = sc.nextInt();
@@ -33,4 +36,5 @@ public class CardCheck{
         return "Sorry, you do not qualify for a credit card";
         }
     }
-}
+    // end of class
+}     
