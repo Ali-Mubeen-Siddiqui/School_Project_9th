@@ -103,4 +103,3 @@ Pick any file, open it in BlueJ, and see what happens! Each program is interacti
 
 ---
 
-Let me know if you want to add more details, images, or instructions!
