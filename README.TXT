@@ -1,12 +1,8 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
+Class 9 ICSE Computer Applications Project
+Author: Ali Mubeen Siddiqui
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This folder contains my Java programs for school, written in BlueJ. Each file is a small program (like ATM, Calculator, Grade Giver, etc.) for learning basics: if-else, loops, switch, and real-life problems.
+
+How to run: Open any .java file in BlueJ or a Java IDE, compile, and run main().
+
+For educational use only.
