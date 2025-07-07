@@ -22,5 +22,6 @@ public class SplitBill{
         // preparing and showing output
         double pay = amount/persons;
         System.out.println("Each person has to pay Rs. " + pay);
+        sc.close();
     }
 }
