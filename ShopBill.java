@@ -5,7 +5,7 @@ public class ShopBill {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("\tWelcome to Mister Raj's Shop Billing System!");
+        System.out.println("\tWelcome to Shop Billing System!");
         System.out.println("This program calculates the total bill for each customer.\n");
 
         System.out.print("Enter number of customers: ");
